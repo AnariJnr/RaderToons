@@ -126,7 +126,7 @@ background-color: #ffc838;;
 }
 
 .pebles-align{
-
+  font-size: 1.8rem;
   text-align:left;
 }
 
@@ -204,6 +204,7 @@ left: 25%;
   padding: 7% 15%;
   text-align: center;
   background-color: #ece2e1;
+  font-size: 2.5rem;
 }
 
 #footer p{
