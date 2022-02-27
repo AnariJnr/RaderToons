@@ -235,7 +235,7 @@ left: 25%;
 /* media query */
 
 @media (max-width: 1200px) {
-  .profile-photo{
+ .profile-photo{
     position: static;
   }
 
@@ -247,6 +247,23 @@ left: 25%;
 
 .correct{
   width: 95%;
+}
+
+.features-paragraph-2 {
+  color: #214151;
+  width: 80%;
+  margin: 3% auto;
+  width: 100%;
+  font-size: 2rem;
+
+}
+
+
+.header-3{
+font-size: 2.5rem;
+font-family: "Montserrat";
+font-weight: 600;
+
 }
 
 }
