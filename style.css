@@ -130,6 +130,10 @@ background-color: #ffc838;;
   text-align:left;
 }
 
+  p.copyright{
+    font-size: 1.5rem;
+  }
+
 .press-logo{
 
   width: 20%;
