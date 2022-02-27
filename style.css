@@ -250,7 +250,7 @@ left: 25%;
 }
 .features-header{
   font-family: "Montserrat";
-  font-size: 7rem;
+  font-size: 5rem;
   line-height: 1.5;
   font-weight: 900;
 }
@@ -287,12 +287,7 @@ left: 30%;
 font-size: 3.5rem;
 }
   
-.features-header{
-  font-family: "Montserrat";
-  font-size: 7rem;
-  line-height: 1.5;
-  font-weight: 900;
-}
+
 .features-paragraph-2 {
   color: #214151;
   width: 80%;
@@ -322,7 +317,7 @@ font-weight: 600;
   
 /* targets */
 #title nav div ul li a{
-  font-size: 6rem;
+  font-size: 5rem;
 } 
 
 
